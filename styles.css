@@ -568,16 +568,16 @@ section {
     transition: transform 0.6s ease;
 }
 
-.bg-1 { background-image: url('Learning app.png'); }
-.bg-2 { background-image: url('employee Stats.png'); }
-.bg-3 { background-image: url('Credit  card fraud.png'); }
-.bg-4 { background-image: url('bank loan analysis.png'); }
-.bg-5 { background-image: url('titanic Survival Prediction.png'); }
-.bg-6 { background-image: url('Employee Turnover.png'); }
-.bg-7 { background-image: url('House sales Prediction.png'); }
-.bg-8 { background-image: url('Marketing Sales Prediction.png'); }
-.bg-9 { background-image: url('Iris Classification.png'); }
-.bg-10 { background-image: url('Password MAsking.png'); }
+.bg-1 { background-image: url('Images/Learning app.png'); }
+.bg-2 { background-image: url('Images/employee Stats.png'); }
+.bg-3 { background-image: url('Images/Credit  card fraud.png'); }
+.bg-4 { background-image: url('Images/bank loan analysis.png'); }
+.bg-5 { background-image: url('Images/titanic Survival Prediction.png'); }
+.bg-6 { background-image: url('Images/Employee Turnover.png'); }
+.bg-7 { background-image: url('Images/House sales Prediction.png'); }
+.bg-8 { background-image: url('Images/Marketing Sales Prediction.png'); }
+.bg-9 { background-image: url('Images/Iris Classification.png'); }
+.bg-10 { background-image: url('Images/Password MAsking.png'); }
 
 .project-card:hover .project-image {
     transform: scale(1.05);

@@ -362,7 +362,7 @@ window.openCertModal = function(title, org, imgSrc) {
     modalOrg.innerText = org;
     
     if (imgSrc && imgSrc !== '') {
-        modalImg.src = imgSrc;
+        modalImg.src = 'Images/' + imgSrc;
         modalImg.style.display = 'block';
         modalPlaceholderIcon.style.display = 'none';
         modalPlaceholderText.style.display = 'none';
