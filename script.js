@@ -332,7 +332,6 @@ gsap.from('.contact-card', {
     ease: 'power3.out'
 });
 
-// Removed scroll animation for social-icons to guarantee persistent visibility instantly
 
 // Smooth Scroll for Nav Links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {

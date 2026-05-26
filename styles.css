@@ -646,6 +646,9 @@ section {
 .bg-13 {
     background-image: url('Images/Customer Behavior Analysis.png');
 }
+.bg-14 {
+    background-image: url('Images/Walmart Analysis.png');
+}
 
 .project-card:hover .project-image {
     transform: scale(1.05);
